@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Password Caliper",
   "version": "1.0.0",
-  "description": "Hover any password field to see a caliper measure the real width hidden behind the dots.",
+  "description": "A caliper that measures password length, solving the age-old problem of passwords that aren’t long enough. Hover over any password field. Option/Alt toggles mm/inch. No batteries.",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
